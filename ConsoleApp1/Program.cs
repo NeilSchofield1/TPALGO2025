@@ -47,8 +47,11 @@ namespace ConsoleApp1 {
                 }
 
                 Console.WriteLine("Merci d'avoir joué !");
+
+                // test
             }
         }
+    }
 }
 
     
