@@ -53,6 +53,8 @@ namespace ConsoleApp1 {
                 Console.WriteLine("test");
 
                 Console.WriteLine("test");
+
+                Console.WriteLine("test");
             }
         }
     }
